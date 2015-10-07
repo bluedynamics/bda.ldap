@@ -306,7 +306,7 @@ Changes
 1.5.0
 -----
 
-- Made ``MemcachedProviderFactory`` configureable. Defaults behave like in prior
+- Made ``MemcachedProviderFactory`` configurable. Defaults behave like in prior
   versions. New: We can pass ``server=`` keyword argument to the 
   constructor expecting a list of servers, each in the form *server:port*.
   (jensens, 2009-12-30)
